@@ -1,1 +1,1 @@
-This is another readme created for the next task
+This is the updated version of Readme. Some contents have been replaced.
